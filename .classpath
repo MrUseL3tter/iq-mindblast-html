@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Programs/Development/Eclipse/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.4.0.v201208080122-rel-r36/gwt-2.4.0/gwt-user.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Programs/Development/Eclipse/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.4.0.v201208080122-rel-r36/gwt-2.4.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Programs/Development/Eclipse/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.4.0.v201208080122-rel-r36/gwt-2.4.0/gwt-dev.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Programs/Development/Eclipse/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.4.0.v201208080122-rel-r36/gwt-2.4.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Programs/Development/Eclipse/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.4.0.v201208080122-rel-r36/gwt-2.4.0/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/Development/Eclipse/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.4.0.v201208080122-rel-r36/gwt-2.4.0/validation-api-1.0.0.GA.jar" sourcepath="D:/Programs/Development/Eclipse/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.4.0.v201208080122-rel-r36/gwt-2.4.0/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/iq-mindblast"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gdx"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gdx-backends-gwt"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
