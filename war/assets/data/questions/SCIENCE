@@ -1,0 +1,192 @@
+{
+	"SCI1": {
+ 		"question": "What is the nearest planet in the Sun?",
+		"answer": "Mercury",
+		"choices": {
+			"choice1": "Earth", 
+			"choice2": "Venus", 
+			"choice3": "Mercury",
+			"choice4": "Saturn"
+		}
+	},
+	"SCI2": {
+		"question": "The outer part of the mantle is the?",
+		"answer": "Aesthenosphere",
+		"choices": {
+			"choice1": "Crust", 
+			"choice2": "Aesthenosphere", 
+			"choice3": "Lithosphere",
+			"choice4": "The Moho"
+		}
+	},
+	"SCI4": {
+		"question": "Plates which slide past each other have boundaries known as:",
+		"answer": "Transform faults",
+		"choices": {
+			"choice1": "Divergent boundaries", 
+			"choice2": "Convergent boundaries", 
+			"choice3": "Transform faults",
+			"choice4": "Mid ocean ridge"
+		}
+	},
+	"SCI5": {
+		"question": "Which type of plate boundaries do mid-oceanic ridges form?",
+		"answer": "Convergent",
+		"choices": {
+			"choice1": "Divergent", 
+			"choice2": "Mixed", 
+			"choice3": "Transform",
+			"choice4": "Convergent"
+		}
+	},
+	"SCI6": {
+		"question": "Which type of rock would you normally expect to be the hardest?",
+		"answer": "Metamorphic",
+		"choices": {
+			"choice1": "Metamorphic", 
+			"choice2": "Igneous", 
+			"choice3": "Sedimentary",
+			"choice4": "Superticius"
+		}
+	},
+	"SCI7": {
+		"question": "What is the name for the location where volcanism occurs away from plate boundaries?",
+		"answer": "Hotspots",
+		"choices": {
+			"choice1": "Grabbos", 
+			"choice2": "Hotspots", 
+			"choice3": "Seamounts",
+			"choice4": "Transform faults"
+		}
+	},
+	"SCI8": {
+		"question": "What caused the devastating Indian Ocean tsunami on 26 December 2006?",
+		"answer": "An earthquake",
+		"choices": {
+			"choice1": "An earthquake", 
+			"choice2": "A new mountain range", 
+			"choice3": "A supervolcano",
+			"choice4": "A landslide"
+		}
+	},
+	"SCI9": {
+		"question": "How thick is the crust of the Earth?",
+		"answer": "about 40 km",
+		"choices": {
+			"choice1": "about 4 miles", 
+			"choice2": "about 4 km", 
+			"choice3": "about 40 km",
+			"choice4": "about 400 km"
+		}
+	},
+	"SCI10": {
+		"question": "The moon is ?",
+		"answer": "one of these",
+		"choices": {
+			"choice1": "older than the sun", 
+			"choice2": "older than most meteorites", 
+			"choice3": "older than the Earth",
+			"choice4": "one of these"
+		}
+	},
+	"SCI11": {
+		"question": "What powers the Earth's internal heat engine?",
+		"answer": "radioactivity",
+		"choices": {
+			"choice1": "radioactivity", 
+			"choice2": "solar energy", 
+			"choice3": "volcanoes",
+			"choice4": "ocean tides"
+		}
+	},
+	"SCI12": {
+		"question": "The Earth's external heat engine is not responsible for which of the following:",
+		"answer": "tides",
+		"choices": {
+			"choice1": "climate", 
+			"choice2": "erosion", 
+			"choice3": "tides",
+			"choice4": "winds"
+		}
+	},
+	"SCI13": {
+		"question": "Which of the planets is not geologically active?",
+		"answer": "Mercury",
+		"choices": {
+			"choice1": "Mars", 
+			"choice2": "Mercury", 
+			"choice3": "Venus",
+			"choice4": "Earth"
+		}
+	},
+	"SCI14": {
+		"question": "The asthenosphere is _________?",
+		"answer": "hot and weak",
+		"choices": {
+			"choice1": "cool and strong", 
+			"choice2": "cool and weak", 
+			"choice3": "hot and strong",
+			"choice4": "hot and weak"
+		}
+	},
+	"SCI15": {
+		"question": "Which of the following is not a type of plate boundary?",
+		"answer": "all of these are plate boundaries",
+		"choices": {
+			"choice1": "convergent", 
+			"choice2": "divergent", 
+			"choice3": "transform fault",
+			"choice4": "all of these are plate boundaries"
+		}
+	},
+	"SCI16": {
+		"question": "New seafloor is created at a ________.",
+		"answer": "mid-ocean ridge",
+		"choices": {
+			"choice1": "deep sea trench", 
+			"choice2": "mid-ocean ridge", 
+			"choice3": "subduction zone",
+			"choice4": "transform fault"
+		}
+	},
+	"SCI17": {
+		"question": "Which of the following is a non metal that remains liquid at room temperature?",
+		"answer": "Bromine",
+		"choices": {
+			"choice1": "Phosphorous", 
+			"choice2": "Bromine", 
+			"choice3": "Chlorine",
+			"choice4": "Helium"
+		}
+	},
+	"SCI18": {
+		"question": "Chlorophyll is a naturally occurring chelate compound in which central metal ?",
+		"answer": "Magnesium",
+		"choices": {
+			"choice1": "Copper", 
+			"choice2": "Magnesium", 
+			"choice3": "Iron",
+			"choice4": "Calcium"
+		}
+	},
+	"SCI19": {
+		"question": "Washing soda is the common name for?",
+		"answer": "Sodium carbonate",
+		"choices": {
+			"choice1": "Sodium carbonate", 
+			"choice2": "Calcium bicarbonate", 
+			"choice3": "Sodium bicarbonate",
+			"choice4": "Calcium carbonate"
+		}
+	},
+	"SCI20": {
+		"question": "What is the name of the biggest part of the human brain?",
+		"answer": "Cerebrum",
+		"choices": {
+			"choice1": "Medulla", 
+			"choice2": "Cerebrum", 
+			"choice3": "Cerebellum",
+			"choice4": "Brain stem"
+		}
+	}
+ }

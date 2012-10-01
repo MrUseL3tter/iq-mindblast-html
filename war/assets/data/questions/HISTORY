@@ -1,0 +1,73 @@
+{
+	"HIS1": {
+ 		"question": "When did the first man go into space?",
+		"answer": "1961",
+		"choices": {
+			"choice1": "1961", 
+			"choice2": "1901", 
+			"choice3": "1951",
+			"choice4": "1999"
+		}
+	},
+	"HIS2": {
+		"question": "Who is the first president of America? ",
+		"answer": "Washington",
+		"choices": {
+			"choice1": "Obama", 
+			"choice2": "Bush", 
+			"choice3": "Kennedy",
+			"choice4": "Washington"
+		}
+	},
+	"HIS3": {
+ 		"question": "When did the US Civil War occur?",
+		"answer": "1861",
+		"choices": {
+			"choice1": "1861", 
+			"choice2": "1900", 
+			"choice3": "1199",
+			"choice4": "1895"
+		}
+	},
+	"HIS4": {
+ 		"question": "One of the youngest general during his time, he led his army in the Battle of Tirad Pass.",
+		"answer": "Gregorio del Pilar",
+		"choices": {
+			"choice1": "Andres Bonifacio", 
+			"choice2": "Gregorio del Pilar", 
+			"choice3": "Emilio Aguinaldo",
+			"choice4": "Jose Rizal"
+		}
+	},
+	"HIS5": {
+ 		"question": "How long did the Spanish Colonialism last?",
+		"answer": "377",
+		"choices": {
+			"choice1": "316", 
+			"choice2": "377", 
+			"choice3": "356",
+			"choice4": "387"
+		}
+	},
+	"HIS6": {
+ 		"question": "Who is the only brother of Jose Rizal?",
+		"answer": "Paciano Mercado",
+		"choices": {
+			"choice1": "Paciano Mercado", 
+			"choice2": "Francisco Mercado", 
+			"choice3": "Francisco Dagohoy",
+			"choice4": "Apolinario Mabini"
+		}
+	},
+	"HIS7": {
+ 		"question": "Who are the 3 Martyrs?",
+		"answer": "GOMBURZA",
+		"choices": {
+			"choice1": "MARCOS", 
+			"choice2": "GOMBURZA", 
+			"choice3": "GOMEZ",
+			"choice4": "ZAMORA"
+		}
+	}
+	
+ }

@@ -1,0 +1,252 @@
+{
+	"GEO1": {
+ 		"question": "Where can we find Rome?",
+		"answer": "Italy",
+		"choices": {
+			"choice1": "France",
+			"choice2": "Italy",
+			"choice3": "Bangladesh",
+			"choice4": "Cambodia"
+		}
+	},
+	"GEO2": {
+ 		"question": "What is the capital of Kenya?",
+		"answer": "Nairobi",
+		"choices": {
+			"choice1": "Nairobi",
+			"choice2": "Dolomites",
+			"choice3": "Africa",
+			"choice4": "Macau"
+		}
+	},
+	"GEO3": {
+ 		"question": "Which is the largest ocean?",
+		"answer": "Pacific",
+		"choices": {
+			"choice1": "Artic",
+			"choice2": "Atlantic",
+			"choice3": "Pacific",
+			"choice4": "Indian"
+		}
+	},
+	"GEO4": {
+ 		"question": "The world's highest hydel power project 'Rongtong' is located in?",
+		"answer": "Himachal Pradesh",
+		"choices": {
+			"choice1": "Rangoon",
+			"choice2": "Kathmandu",
+			"choice3": "Beijing",
+			"choice4": "Himachal Pradesh"
+		}
+	},
+	"GEO5": {
+ 		"question": "Which one of the following is the farthest from the center of the earth?",
+		"answer": "Equator",
+		"choices": {
+			"choice1": "Tropic of Capricorn",
+			"choice2": "Equator",
+			"choice3": "South Pole",
+			"choice4": "Antarctic Circle"
+		}
+	},
+	"GEO6": {
+ 		"question": "Where can we find Mt. Everest?",
+		"answer": "Nepal",
+		"choices": {
+			"choice1": "Nepal",
+			"choice2": "Cebu",
+			"choice3": "Hong Kong",
+			"choice4": "China"
+		}
+	},
+	"GEO7": {
+ 		"question": "What is the longest river in Asia?",
+		"answer": "Yangtze River",
+		"choices": {
+			"choice1": "Yangtze River",
+			"choice2": "Ganges River",
+			"choice3": "Argun River",
+			"choice4": "Euphrates"
+		}
+	},
+	"GEO8": {
+ 		"question": "What is the capital of Saudi Arabia?",
+		"answer": "Riyadh",
+		"choices": {
+			"choice1": "Qatar",
+			"choice2": "Riyadh",
+			"choice3": "Dubai",
+			"choice4": "UAE"
+		}
+	},
+	"GEO9": {
+ 		"question": "What state in US can we find Las Vegas?",
+		"answer": "Nevada",
+		"choices": {
+			"choice1": "Nevada",
+			"choice2": "California",
+			"choice3": "Hawaii",
+			"choice4": "New York"
+		}
+	},
+	"GEO10": {
+ 		"question": "What is the longest bridge in the Philippines?",
+		"answer": "San Juanico",
+		"choices": {
+			"choice1": "Lambangan",
+			"choice2": "Jones Bridge",
+			"choice3": "San Juanico",
+			"choice4": "Quezon Bridge"
+		}
+	},
+	"GEO11": {
+ 		"question": "Supercontinent that existed 200 million years ago.",
+		"answer": "Pangaea",
+		"choices": {
+			"choice1": "San Andreas",
+			"choice2": "Andian",
+			"choice3": "Pangaea",
+			"choice4": "Indian"
+		}
+	},
+	"GEO12": {
+ 		"question": "What is the capital of Sri Lanka?",
+		"answer": "Colombo",
+		"choices": {
+			"choice1": "Colombo",
+			"choice2": "Kotte",
+			"choice3": "Singapore",
+			"choice4": "Thailand"
+		}
+	},
+	"GEO13": {
+ 		"question": "What is the Longest Underground River in the World?",
+		"answer": "Palawan's Underground River",
+		"choices": {
+			"choice1": "Palawan's Underground River",
+			"choice2": "Son Trach River",
+			"choice3": "Marikina River",
+			"choice4": "Pasig River"
+		}
+	},
+	"GEO14": {
+ 		"question": "What is the nearest province in Sabah, Malaysia?",
+		"answer": "Tawi-Tawi",
+		"choices": {
+			"choice1": "Batanes",
+			"choice2": "Palawan",
+			"choice3": "Surigao",
+			"choice4": "Tawi-Tawi"
+		}
+	},
+	"GEO15": {
+ 		"question": "Where can we find the Chocolate Hills?",
+		"answer": "Bohol",
+		"choices": {
+			"choice1": "Bulacan",
+			"choice2": "Bohol",
+			"choice3": "Guimaras",
+			"choice4": "Maguindanao"
+		}
+	},
+	"GEO16": {
+ 		"question": "What is the smallest city in the Philippines?",
+		"answer": "San Juan City",
+		"choices": {
+			"choice1": "San Juan City",
+			"choice2": "Taguig City",
+			"choice3": "Davao City",
+			"choice4": "Quezon City"
+		}
+	},
+	"GEO17": {
+ 		"question": "What is the capital of Taiwan?",
+		"answer": "Taipei",
+		"choices": {
+			"choice1": "Malaysia",
+			"choice2": "Taichung",
+			"choice3": "Taipei",
+			"choice4": "Yangmei"
+		}
+	},
+	"GEO18": {
+ 		"question": "What is the largest island in the Philippines?",
+		"answer": "Luzon",
+		"choices": {
+			"choice1": "Mindanao",
+			"choice2": "Luzon",
+			"choice3": "Palawan",
+			"choice4": "Visayas"
+		}
+	},
+	"GEO19": {
+ 		"question": "What is the deepest location on Earth?",
+		"answer": "Mariana Trench",
+		"choices": {
+			"choice1": "Philippine Trench",
+			"choice2": "Puerto Rico Trench",
+			"choice3": "Mariana Trench",
+			"choice4": "Japan Trench"
+		}
+	},
+	"GEO20": {
+ 		"question": "What is the capital of the province Bulacan?",
+		"answer": "Malolos",
+		"choices": {
+			"choice1": "Calumpit",
+			"choice2": "Malolos",
+			"choice3": "Hagonoy",
+			"choice4": "San Jose del Monte"
+		}
+	},
+	"GEO21": {
+ 		"question": "What is the longest river in the Philippines?",
+		"answer": "Cagayan River",
+		"choices": {
+			"choice1": "Angat River",
+			"choice2": "Magat River",
+			"choice3": "Cagayan River",
+			"choice4": "Pampanga River"
+		}
+	},
+	"GEO22": {
+ 		"question": "What is the dominant religion of Malaysia?",
+		"answer": "Islam",
+		"choices": {
+			"choice1": "Hinduism",
+			"choice2": "Islam",
+			"choice3": "Buddhism",
+			"choice4": "Taoism"
+		}
+	},
+	"GEO23": {
+ 		"question": "What is the highest mountain in Asia?",
+		"answer": "Mt. Everest",
+		"choices": {
+			"choice1": "Mt. Apo",
+			"choice2": "Mt. Mckinley",
+			"choice3": "Mt. Elbrus",
+			"choice4": "Mt. Everest"
+		}
+	},
+	"GEO24": {
+ 		"question": "What is Japan often referred to as?",
+		"answer": "Land of the Rising Sun",
+		"choices": {
+			"choice1": "Land of the Midnight Sun",
+			"choice2": "Land of the Rising Sun",
+			"choice3": "Emerald Island",
+			"choice4": "Land of Morning Calm"
+		}
+	},
+	"GEO25": {
+ 		"question": "What is the currency of Japan?",
+		"answer": "Yen",
+		"choices": {
+			"choice1": "Yen",
+			"choice2": "Won",
+			"choice3": "Dollar",
+			"choice4": "Riyal"
+		}
+	}
+}

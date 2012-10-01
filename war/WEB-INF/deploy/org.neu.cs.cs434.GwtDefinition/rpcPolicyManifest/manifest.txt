@@ -1,0 +1,2 @@
+# Module org.neu.cs.cs434.GwtDefinition
+# RPC service class, partial path of RPC policy file

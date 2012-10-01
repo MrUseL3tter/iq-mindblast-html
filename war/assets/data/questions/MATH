@@ -1,0 +1,153 @@
+{
+	"MAT1": {
+ 		"question": "What do you call an angle more than 90 degrees and less than 180 degrees?",
+		"answer": "Obtuse",
+		"choices": {
+			"choice1": "Obtuse", 
+			"choice2": "Peripheral", 
+			"choice3": "Right",
+			"choice4": "Triangle"
+		}
+	},
+	"MAT2": {
+		"question": "The day before the day before yesterday is three days after Saturday. What day is it today?",
+		"answer": "Friday",
+		"choices": {
+			"choice1": "Monday", 
+			"choice2": "Tuesday", 
+			"choice3": "Sunday",
+			"choice4": "Friday"
+		}
+	},
+	"MAT3": {
+ 		"question": "What's the upper number of a fraction called?",
+		"answer": "Numerator",
+		"choices": {
+			"choice1": "Numerator", 
+			"choice2": "Radii", 
+			"choice3": "Identifier",
+			"choice4": "Dominator"
+		}
+	},
+	"MAT4": {
+ 		"question": "What number does \"Giga\" stand for?",
+		"answer": "One Billion",
+		"choices": {
+			"choice1": "One Billion", 
+			"choice2": "One Million", 
+			"choice3": "One Centitillion",
+			"choice4": "One Trillion"
+		}
+	},
+	"MAT5": {
+ 		"question": "What place in this world can have their temperatures Fahrenheit and Celsius equal?",
+		"answer": "America",
+		"choices": {
+			"choice1": "America", 
+			"choice2": "Asia", 
+			"choice3": "Europe",
+			"choice4": "Antartica"
+		}
+	},
+	"MAT6": {
+ 		"question": "Which number has the greatest absolute value?",
+		"answer": "19",
+		"choices": {
+			"choice1": "Negative 17", 
+			"choice2": "Negative 13", 
+			"choice3": "15",
+			"choice4": "19"
+		}
+	},
+	"MAT7": {
+ 		"question": "The square root of 150 is between...",
+		"answer": "12 and 13",
+		"choices": {
+			"choice1": "10 and 11", 
+			"choice2": "12 and 13", 
+			"choice3": "13 and 14",
+			"choice4": "11 and 12"
+		}
+	},
+	"MAT8": {
+ 		"question": "How many face does a cube have?",
+		"answer": "6",
+		"choices": {
+			"choice1": "6", 
+			"choice2": "4", 
+			"choice3": "9",
+			"choice4": "12"
+		}
+	},
+	"MAT9": {
+ 		"question": "Sequence of numbers in which the next term is formed by adding the last two terms.",
+		"answer": "Fibonacci Sequence",
+		"choices": {
+			"choice1": "Fibonacci Sequence", 
+			"choice2": "Illuminati Triangle", 
+			"choice3": "Sequence Diagram",
+			"choice4": "Da Vinci's Pentagram"
+		}
+	},
+	"MAT10": {
+ 		"question": "What is a triangle with all three sides of the same length?",
+		"answer": "Equilateral Triangle",
+		"choices": {
+			"choice1": "Right Triangle", 
+			"choice2": "Obtuse Triangle", 
+			"choice3": "Acute Triangle",
+			"choice4": "Equilateral Triangle"
+		}
+	},
+	"MAT11": {
+ 		"question": "Triangle that has two equal sides and the angles opposite the equal sides are also equal.",
+		"answer": "Isosceles Triangle",
+		"choices": {
+			"choice1": "Triangle", 
+			"choice2": "Scalene Triangle", 
+			"choice3": "Isosceles Triangle",
+			"choice4": "Right Isosceles Triangle"
+		}
+	},
+	"MAT12": {
+ 		"question": "What is the plural of radius?",
+		"answer": "Radii",
+		"choices": {
+			"choice1": "Radius", 
+			"choice2": "Radii", 
+			"choice3": "Radiuses",
+			"choice4": "Radei"
+		}
+	},
+	"MAT13": {
+ 		"question": "What do you call a diagram used to represent sets?",
+		"answer": "Venn Diagram",
+		"choices": {
+			"choice1": "Network Diagram", 
+			"choice2": "Class Diagram", 
+			"choice3": "Venn Diagram",
+			"choice4": "Set Diagram"
+		}
+	},
+	"MAT14": {
+ 		"question": "Which number should come next in the series 1, 3, 6, 10, 15?",
+		"answer": "21",
+		"choices": {
+			"choice1": "21", 
+			"choice2": "27", 
+			"choice3": "20",
+			"choice4": "22"
+		}
+	},
+	"MAT15": {
+ 		"question": "If a matrix A has dimension of MxM, what kind of matrix is it?",
+		"answer": "Square",
+		"choices": {
+			"choice1": "Square", 
+			"choice2": "Triangle", 
+			"choice3": "Rectangle",
+			"choice4": "Obsulete"
+		}
+	}
+	
+ }

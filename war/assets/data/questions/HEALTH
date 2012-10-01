@@ -1,0 +1,202 @@
+{
+	"HEA1": {
+ 		"question": "What is the longest bone in a human body?",
+		"answer": "Femur",
+		"choices": {
+			"choice1": "Sternum", 
+			"choice2": "Femur", 
+			"choice3": "Stirrup",
+			"choice4": "Humerus"
+		}
+	},
+	"HEA2": {
+		"question": "A human body is composed of 70% what?",
+		"answer": "Water",
+		"choices": {
+			"choice1": "Blood", 
+			"choice2": "Water", 
+			"choice3": "Cells",
+			"choice4": "Muscles"
+		}
+	},
+	"HEA3": {
+		"question": "What is the largest human organ?",
+		"answer": "Skin",
+		"choices": {
+			"choice1": "Bone", 
+			"choice2": "Skin", 
+			"choice3": "Small Intestine",
+			"choice4": "Sex Organ"
+		}
+	},
+	"HEA4": {
+		"question": "What is the longest muscle in the human body?",
+		"answer": "Sartorius",
+		"choices": {
+			"choice1": "Sartorius", 
+			"choice2": "Femur", 
+			"choice3": "Rectus Femoris",
+			"choice4": "Abdominal Muscle"
+		}
+	},
+	"HEA5": {
+		"question": "Different for everyone just like a fingerprint.",
+		"answer": "Tongue Print",
+		"choices": {
+			"choice1": "Foot Print", 
+			"choice2": "Tongue Print", 
+			"choice3": "Knee Print",
+			"choice4": "Elbow Print"
+		}
+	},
+	"HEA6": {
+		"question": "How many pairs of chromosomes does a human have?",
+		"answer": "23",
+		"choices": {
+			"choice1": "23", 
+			"choice2": "33", 
+			"choice3": "46",
+			"choice4": "26"
+		}
+	},
+	"HEA7": {
+		"question": "How many muscles does it takes to smile?",
+		"answer": "17",
+		"choices": {
+			"choice1": "16", 
+			"choice2": "15", 
+			"choice3": "14",
+			"choice4": "17"
+		}
+	},
+	"HEA8": {
+		"question": "What vegetable did the ancient greeks use to decorate tombs?",
+		"answer": "Parsley",
+		"choices": {
+			"choice1": "Spinach", 
+			"choice2": "Parsley", 
+			"choice3": "Pumpkin",
+			"choice4": "Basil"
+		}
+	},
+	"HEA9": {
+		"question": "Which vegetable comes in white, yellow, orange, green, and purple varieties?",
+		"answer": "Cauliflower",
+		"choices": {
+			"choice1": "Cauliflower", 
+			"choice2": "Cabbage", 
+			"choice3": "Onion",
+			"choice4": "Carrots"
+		}
+	},
+	"HEA10": {
+		"question": "A vegetable also called \"Mad Apple\".",
+		"answer": "Eggplant",
+		"choices": {
+			"choice1": "Potato", 
+			"choice2": "Carrots", 
+			"choice3": "Pineapple",
+			"choice4": "Eggplant"
+		}
+	},
+	"HEA11": {
+		"question": "Number of months before our teeth start growing.",
+		"answer": "6",
+		"choices": {
+			"choice1": "7", 
+			"choice2": "6", 
+			"choice3": "5",
+			"choice4": "8"
+		}
+	},
+	"HEA12": {
+		"question": "How many muscles do we use to take one step?",
+		"answer": "200",
+		"choices": {
+			"choice1": "210", 
+			"choice2": "180", 
+			"choice3": "195",
+			"choice4": "200"
+		}
+	},
+	"HEA13": {
+		"question": "Also known as \"The Sunshine Vitamin\".",
+		"answer": "Vitamin D",
+		"choices": {
+			"choice1": "Vitamin C", 
+			"choice2": "Vitamin A", 
+			"choice3": "Vitamin B",
+			"choice4": "Vitamin D"
+		}
+	},
+	"HEA14": {
+		"question": "What does a bacteria use to move?",
+		"answer": "Flagella",
+		"choices": {
+			"choice1": "Fimbrae", 
+			"choice2": "Macrophages", 
+			"choice3": "Bacillus",
+			"choice4": "Flagella"
+		}
+	},
+	"HEA15": {
+		"question": "The most common viral infective agents in humans.",
+		"answer": "Rhinovirus",
+		"choices": {
+			"choice1": "Rhinovirus", 
+			"choice2": "T-Virus", 
+			"choice3": "Acara Virus",
+			"choice4": "C-Virus"
+		}
+	},
+	"HEA16": {
+		"question": "Healthy bacteria needed for proper digestion.",
+		"answer": "Lactobacillus Sporogenes",
+		"choices": {
+			"choice1": "Escherichia Coli", 
+			"choice2": "Lactobacillus Rhamnosus", 
+			"choice3": "Lactobacillus Sporogenes",
+			"choice4": "Bacillus Coagulans"
+		}
+	},
+	"HEA17": {
+		"question": "Micro-ogranisms that are beneficial if administered in adequate amounts.",
+		"answer": "Probiotics",
+		"choices": {
+			"choice1": "Probiotics", 
+			"choice2": "Antiobiotics", 
+			"choice3": "Virus",
+			"choice4": "Bacteria"
+		}
+	},
+	"HEA18": {
+		"question": "Which is the weakest among the 5 senses?",
+		"answer": "Taste",
+		"choices": {
+			"choice1": "Sight", 
+			"choice2": "Taste", 
+			"choice3": "Smell",
+			"choice4": "Touch"
+		}
+	},
+	"HEA19": {
+		"question": "What is the strongest anti-oxidant?",
+		"answer": "Vitamin E",
+		"choices": {
+			"choice1": "Vitamin E", 
+			"choice2": "Vitamin A", 
+			"choice3": "Vitamin C",
+			"choice4": "Vitamin D"
+		}
+	},
+	"HEA14": {
+		"question": "The only multi-cellular animal without a nervous system.",
+		"answer": "Sponge",
+		"choices": {
+			"choice1": "Sponge", 
+			"choice2": "Starfish", 
+			"choice3": "Squid",
+			"choice4": "Crab"
+		}
+	}
+ }
